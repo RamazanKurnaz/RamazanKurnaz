@@ -3,9 +3,9 @@
 
 
 
-<p> I'm Junior Software Developer. I enjoy product development, solving algorithmic challenges, and gathering feedback from users.
+<p> I'm Junior <b>Software Developer</b>. I enjoy product development with Typescript, Reactjs, Nextjs, Nodejs and solving algorithmic challenges, and gathering feedback from users.
 
-I recently earned the MongoDB Associate Developer Node Certification, showcasing my expertise in MongoDB and Node.js. Currently, I'm focused on developing my own micro SaaS product, combining my technical skills and passion for creating valuable solutions.
+I recently earned the <b>MongoDB Associate Developer Node</b> MongoDB Associate Developer Node Certification, showcasing my expertise in MongoDB and Node.js. Currently, I'm focused on developing my own micro SaaS product, combining my technical skills and passion for creating valuable solutions.
 
 If you're interested in pair programming, feel free to reach out to me on LinkedIn!  <img src="https://emojis.slackmojis.com/emojis/images/1705794630/87798/rocket.png?1705794630" width="30"> </p>
 
